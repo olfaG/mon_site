@@ -1,0 +1,20 @@
+https://github.com/olfaG/mon_site.git
+
+echo "# mon_site" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M "main"
+git remote add origin https://github.com/olfaG/mon_site.git
+git push -u origin "main"
+
+
+
+
+git remote add origin https://github.com/olfaG/mon_site.git
+git branch -M  "main"
+git push -u origin "main"
+
+
+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
+olfaG
